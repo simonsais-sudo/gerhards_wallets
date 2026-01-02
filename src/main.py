@@ -53,7 +53,7 @@ async def load_initial_wallets():
         
         await session.commit()
 
-async def run_hourly_scan(sol_tracker, evm_tracker, bot_instance):
+async def run_hourly_scan(sol_tracker, evm_tracker, base_tracker, bot_instance):
     """Run a complete scan of all wallets and send summary."""
     scan_start = datetime.now()
     logger.info(f"🔍 Starting hourly scan at {scan_start.strftime('%H:%M:%S')}")
@@ -149,14 +149,17 @@ async def main():
     # Init Trackers
     from src.tracker.sol_tracker import SolanaTracker
     from src.tracker.evm_tracker import EVMTracker
+    from src.tracker.base_tracker import BaseTracker
     from src.bot.telegram_handler import bot_instance
     
     sol_tracker = SolanaTracker()
     evm_tracker = EVMTracker()
+    base_tracker = BaseTracker()
     
     # Initialize trackers (connect to RPCs)
     await sol_tracker.initialize()
     await evm_tracker.initialize()
+    await base_tracker.initialize()
     
     # Start Bot (runs in background)
     asyncio.create_task(bot_instance.start())
@@ -173,13 +176,13 @@ async def main():
     
     try:
         # Run first scan immediately
-        await run_hourly_scan(sol_tracker, evm_tracker, bot_instance)
+        await run_hourly_scan(sol_tracker, evm_tracker, base_tracker, bot_instance)
         
         # Then run every hour
         while True:
             logger.info(f"⏳ Waiting {SCAN_INTERVAL_SECONDS // 60} minutes until next scan...")
             await asyncio.sleep(SCAN_INTERVAL_SECONDS)
-            await run_hourly_scan(sol_tracker, evm_tracker, bot_instance)
+            await run_hourly_scan(sol_tracker, evm_tracker, base_tracker, bot_instance)
             
     except KeyboardInterrupt:
         logger.info("Shutting down...")
@@ -188,6 +191,7 @@ async def main():
     finally:
         await sol_tracker.stop()
         await evm_tracker.stop()
+        await base_tracker.stop()
 
 if __name__ == "__main__":
     asyncio.run(main())

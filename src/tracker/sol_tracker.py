@@ -16,6 +16,7 @@ from src.analysis.pattern_engine import PatternEngine
 from src.analysis.predictive_engine import PredictiveEngine
 from src.analysis.cabal_detector import CabalDetector
 from src.analysis.contrarian_engine import ContrarianEngine
+from src.analysis.price_fetcher import price_fetcher
 
 logger = logging.getLogger(__name__)
 ai_analyzer = AIAnalyzer()
@@ -210,10 +211,14 @@ class SolanaTracker:
                                         else:
                                             tokens_lost.append((symbol_clean, mint, abs(diff)))
                             
-                            # SELL/BUY Classification Logic:
-                            # - SELL = Lost a token AND gained SOL/USDC/USDT
-                            # - BUY = Lost SOL/USDC/USDT AND gained a token
-                            stables = {'SOL', 'USDC', 'USDT', 'wSOL', 'WSOL'}
+                            # SELL/BUY Classification Logic (ENHANCED):
+                            # - SELL = Lost a token AND gained SOL/USDC/USDT (or more SOL)
+                            # - BUY = Lost SOL/USDC/USDT AND gained a token (or less SOL)
+                            # - SWAP = Token A → Token B (both non-stables)
+                            stables = {'SOL', 'USDC', 'USDT', 'wSOL', 'WSOL', 'USDC.e', 'USDCet'}
+                            
+                            # Debug logging
+                            logger.debug(f"Tokens gained: {[t[0] for t in tokens_gained]}, Tokens lost: {[t[0] for t in tokens_lost]}, SOL diff: {sol_diff}")
                             
                             if tokens_lost and tokens_gained:
                                 # Check what we gained - if stable, it's a SELL
@@ -222,26 +227,30 @@ class SolanaTracker:
                                 lost_stables = [t for t in tokens_lost if t[0] in stables]
                                 lost_tokens = [t for t in tokens_lost if t[0] not in stables]
                                 
-                                if lost_tokens and (gained_stables or sol_diff > 0.01):
-                                    # SELL: Lost a token, gained SOL/stable
+                                # IMPROVED: Check for sells more aggressively
+                                if lost_tokens and (gained_stables or sol_diff > 0.001):
+                                    # SELL: Lost a token, gained SOL/stable (even small amounts)
                                     db_tx_type = 'SELL'
                                     db_symbol = lost_tokens[0][0]
                                     db_token_addr = lost_tokens[0][1]
                                     db_amount = lost_tokens[0][2]
-                                elif gained_tokens and (lost_stables or sol_diff < -0.01):
+                                    logger.info(f"🔴 SELL DETECTED: {db_amount:.4f} {db_symbol} → SOL/stable")
+                                elif gained_tokens and (lost_stables or sol_diff < -0.001):
                                     # BUY: Lost SOL/stable, gained a token
                                     db_tx_type = 'BUY'
                                     db_symbol = gained_tokens[0][0]
                                     db_token_addr = gained_tokens[0][1]
                                     db_amount = gained_tokens[0][2]
-                                else:
-                                    # Token-to-token swap (rare, default to SWAP)
+                                    logger.info(f"🟢 BUY DETECTED: {db_amount:.4f} {db_symbol}")
+                                elif lost_tokens and gained_tokens:
+                                    # Token-to-token swap (e.g., BONK → WIF)
                                     db_tx_type = 'SWAP'
-                                    if gained_tokens:
-                                        db_symbol = gained_tokens[0][0]
-                                        db_token_addr = gained_tokens[0][1]
-                                        db_amount = gained_tokens[0][2]
-                            elif tokens_gained and not tokens_lost and sol_diff < -0.01:
+                                    # Prioritize the gained token as the "main" one
+                                    db_symbol = gained_tokens[0][0]
+                                    db_token_addr = gained_tokens[0][1]
+                                    db_amount = gained_tokens[0][2]
+                                    logger.info(f"🔄 SWAP DETECTED: {lost_tokens[0][0]} → {db_symbol}")
+                            elif tokens_gained and not tokens_lost and sol_diff < -0.001:
                                 # Pure buy: Only lost SOL, gained token
                                 db_tx_type = 'BUY'
                                 non_stables = [t for t in tokens_gained if t[0] not in stables]
@@ -249,7 +258,8 @@ class SolanaTracker:
                                     db_symbol = non_stables[0][0]
                                     db_token_addr = non_stables[0][1]
                                     db_amount = non_stables[0][2]
-                            elif tokens_lost and not tokens_gained and sol_diff > 0.01:
+                                    logger.info(f"🟢 PURE BUY: {db_amount:.4f} {db_symbol}")
+                            elif tokens_lost and not tokens_gained and sol_diff > 0.001:
                                 # Pure sell: Lost token, only gained SOL
                                 db_tx_type = 'SELL'
                                 non_stables = [t for t in tokens_lost if t[0] not in stables]
@@ -257,6 +267,17 @@ class SolanaTracker:
                                     db_symbol = non_stables[0][0]
                                     db_token_addr = non_stables[0][1]
                                     db_amount = non_stables[0][2]
+                                    logger.info(f"🔴 PURE SELL: {db_amount:.4f} {db_symbol} → SOL")
+                            elif tokens_lost and not tokens_gained:
+                                # Edge case: Lost token but SOL didn't increase (might be wrapped/unwrapped)
+                                # Still count as SELL
+                                non_stables = [t for t in tokens_lost if t[0] not in stables]
+                                if non_stables:
+                                    db_tx_type = 'SELL'
+                                    db_symbol = non_stables[0][0]
+                                    db_token_addr = non_stables[0][1]
+                                    db_amount = non_stables[0][2]
+                                    logger.info(f"🔴 SELL (edge case): {db_amount:.4f} {db_symbol}")
 
                         if changes:
                             balance_changes_text = ", ".join(changes)
@@ -270,6 +291,16 @@ class SolanaTracker:
                 else:
                     tx_timestamp = datetime.now(timezone.utc)  # Fallback
 
+                # Fetch USD value if we have a token address
+                usd_value = None
+                if db_token_addr and db_amount:
+                    try:
+                        usd_value = await price_fetcher.get_usd_value(db_token_addr, db_amount)
+                        if usd_value:
+                            logger.info(f"💰 USD Value: ${usd_value:,.2f}")
+                    except Exception as e:
+                        logger.debug(f"Could not fetch price for {db_symbol}: {e}")
+
                 new_tx = Transaction(
                     wallet_id=wallet.id,
                     tx_hash=sig,
@@ -278,6 +309,7 @@ class SolanaTracker:
                     timestamp=tx_timestamp,
                     tx_type=db_tx_type,
                     amount=db_amount,
+                    amount_usd=usd_value,
                     token_symbol=db_symbol,
                     token_address=db_token_addr
                 )
