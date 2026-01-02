@@ -10,3 +10,5 @@ loguru
 sqlalchemy
 psycopg2-binary
 tenacity
+fastapi
+uvicorn[standard]
