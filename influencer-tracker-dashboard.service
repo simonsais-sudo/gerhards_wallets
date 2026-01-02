@@ -1,0 +1,22 @@
+[Unit]
+Description=Influencer Tracker Dashboard API
+After=network.target postgresql.service
+Wants=postgresql.service
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/root/gerhard_wallets/influencer_tracker
+Environment="PATH=/usr/bin:/usr/local/bin"
+Environment="DASHBOARD_PORT=8888"
+Environment="DASHBOARD_HOST=0.0.0.0"
+ExecStart=/usr/bin/python3 /root/gerhard_wallets/influencer_tracker/dashboard_api.py
+Restart=always
+RestartSec=10
+
+# Logging
+StandardOutput=append:/var/log/influencer-tracker-dashboard.log
+StandardError=append:/var/log/influencer-tracker-dashboard.log
+
+[Install]
+WantedBy=multi-user.target
