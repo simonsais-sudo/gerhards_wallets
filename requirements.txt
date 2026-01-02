@@ -1,0 +1,12 @@
+aiogram
+web3
+solana
+solders
+google-generativeai
+asyncpg
+python-dotenv
+aiohttp
+loguru
+sqlalchemy
+psycopg2-binary
+tenacity

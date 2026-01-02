@@ -1,0 +1,22 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+.env.twitter_temp
+
+# Data
+research_results.json
+comprehensive_research.json
+research_results_v1.json
+comprehensive_research_v1.json
+postgres_data/
+
+# OS
+.DS_Store
+._*
+
+# Config
+config/bot_config.json

@@ -1,0 +1,35 @@
+version: '3.8'
+
+services:
+  db:
+    image: postgres:15-alpine
+    environment:
+      POSTGRES_USER: tracker
+      POSTGRES_PASSWORD: tracker_password
+      POSTGRES_DB: influencer_tracker
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: [ "CMD-SHELL", "pg_isready -U tracker" ]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  bot:
+    build: .
+    volumes:
+      - .:/app
+    environment:
+      - TELEGRAM_TOKEN=${TELEGRAM_TOKEN}
+      - GEMINI_API_KEY=${GEMINI_API_KEY}
+      - HELIUS_RPC_URL=${HELIUS_RPC_URL}
+      - ETH_RPC_URL=${ETH_RPC_URL}
+      - DATABASE_URL=postgresql+asyncpg://tracker:tracker_password@db:5432/influencer_tracker
+    depends_on:
+      db:
+        condition: service_healthy
+    command: python3 src/main.py
+    restart: always
+
+volumes:
+  postgres_data:

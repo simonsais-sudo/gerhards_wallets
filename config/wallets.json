@@ -1,0 +1,2712 @@
+[
+  {
+    "address": "0x5e6119cc5881598ea9f10521bae21ef8aaf612d3",
+    "name": "Alex Becker Sidus Senate",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x128f0081fdcb8b902ff0f45ae90bbe93d87df47b",
+    "name": "Alex Becker Dalarnia",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xae4d837caa0c53579f8a156633355df5058b02f3",
+    "name": "Alex Becker Main",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x010c1b559e332d8ac0796d9b49031044b3feadb0",
+    "name": "Alex Becker 2 (potentially)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xa857546640a225142822500a401d2a06e72642ad",
+    "name": "Alex Becker 3 (potentially)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x30c4FAcf31C3267a1b6c60AaC3b0Ff70F6e4c0D3",
+    "name": "Alex Becker 4",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x1e3f363fa901aa8af9c4996f2615df5190b711e5",
+    "name": "Alex Becker 5 (potentially)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x3b4c1b62034d547edeff15d965b7a36f53205ea2",
+    "name": "Alex Becker 6 (potentially)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x8a898e02c3567fc44fa57894865f08d3a4cee71d",
+    "name": "Alex Becker 7 (potentially)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x108d3bf6ccf02caef24016414dfce4aad4097df9",
+    "name": "Alex Becker MEXC deposit address",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x576eac909d8036062e2c32a95ceca4c573ab4f8d",
+    "name": "Alex Becker GateIO deposit address",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x907b322d33121a50a9f7bc5305761b0ca40c6113",
+    "name": "Alex Becker Coinbase deposit address",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xf9f5b8431c3868d4adf09f159480d3224896af2e",
+    "name": "Crypto Gains 1",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x656de1c3894b9b6dd43ef6270420c8e83afe5a68",
+    "name": "Crypto Gains 2",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x08da663aa0856e1b368d877c5989e9c646ee23b7",
+    "name": "Crypto Gains 3",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xd14e771ba89a9edbf255a60245920f52ce616777",
+    "name": "Crypto Gains 4",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x2b0850487ed24206fc20bd139bf23d7cbb9e5229",
+    "name": "Crypto Gains 6",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x2589aa1c1f5d6d2ade903f26a208f007716cbce2",
+    "name": "Crypto Gains 7",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x1e3966283f289536b758a587d0616a202c7950a2",
+    "name": "Crypto Gains 8 (kucoin deposit address)",
+    "chain": "EVM"
+  },
+  {
+    "address": "CKUhxNE9eWDsm5w9otjXZFVLkUcwjtGnjmyXjSTdQZR1",
+    "name": "Crypto Gains 9 (solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "0x5788d09824008ec39bc305fac4441771e1448f58",
+    "name": "Crypto Gains 10",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x7cc66834f7ecb48694ebcc06f3a5e3f54a4005fd",
+    "name": "Crypto Gains 11",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x92422f0a83bc4afc876c7a8e9f5ae27ac0203c2f",
+    "name": "Crypto Gains 12 (potentially)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x637C9Cc92BFc5594D6BcD25c99FD5a5D153CC699",
+    "name": "Crypto Gains 13 (kucoin deposit address)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x052d48333b6b1d69d9ebbd5e485934e273623a56",
+    "name": "Crypto Gains 14 (kucoin deposit address)",
+    "chain": "EVM"
+  },
+  {
+    "address": "Eb4HpAMtqVprLMtchgyWLZ93e3FE35gNXJbC7FNCWcbv",
+    "name": "Crypto Gains 15 (solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "0xc1b81b039b5090ea994c7089621ba0ebb1a108c3",
+    "name": "Crypto Gains 16",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x17ccb511227cc87be325351967c32e5754653a4d",
+    "name": "Crypto Gains 17",
+    "chain": "EVM"
+  },
+  {
+    "address": "CjWP9sh8o9xdhjvLwQ4BdwQBshfrTyjJqVMW7fM8FuvT",
+    "name": "Crypto Gains 18 (solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "CiRRp8ykLmuYjy4XijfV6YwYdSMKNs26C6Huz5UedRqw",
+    "name": "Crypto Gains 19 (solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "VEUPkbAd2oBcyBU5ucRda9u9sEJrRxZzkNi9ksHGJTG",
+    "name": "Crypto Gains 21 (solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "0x0400a38944d0c790c746a842561a0197b4b6dd6f",
+    "name": "Crypto Gains 22",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x033626580932d618064a1144ae2a2ca5d3f7ecba",
+    "name": "Crypto Gains 23",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xcc04019c473ea4c09aa76dbfef61aaec0203971e",
+    "name": "Crypto Gains 24",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xd5B9A3d94947AA348CDE4ECf108adb75fB250105",
+    "name": "Crypto Gains 25 (Kucoin deposit address)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x2bdd651f4579090bc4f26b773aba0ec5be6e4de1",
+    "name": "Crypto Gains 26 (Binance deposit address)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xc9c98624340b7e102df3b0b70bed0aafe54644a3",
+    "name": "Crypto Gains 27 (potentially stealth wallet)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x7cf296c08c25aeb5f6014f4d944fc4ab80e1da78",
+    "name": "Crypto Gains 28",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xef1daa46f9b3885cc346234c3b3f442148968d78",
+    "name": "Crypto Gains 30",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x868a93e55a0e0dfbd373cac808264e0c02ccebd9",
+    "name": "Crypto Gains 31 (Mexc deposit address)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xcdc809c0ef888970edde15273ba0928e171b81fe",
+    "name": "Crypto Gains 32",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xd970a4316667a49abc0056e8700771f4e5495747",
+    "name": "Crypto Gains 33",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x44fac11a107593829a7aae5012b4f81749f025b9",
+    "name": "Crypto Gains 34",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xA85065434e4398DB03056FcF747EDEA2f06F9F64",
+    "name": "Crypto Gains 35 (Coinbase deposit address)",
+    "chain": "EVM"
+  },
+  {
+    "address": "9heRG85EinhHx2AFuKJyaMEh7U6HismMdVNX8RSvz6d5",
+    "name": "Crypto Gains 36 (Coinbase deposit address)",
+    "chain": "SOL"
+  },
+  {
+    "address": "v5r7d85xnQ9nk7aMm75cD6NM29tm1jWsp2r5sznQosS",
+    "name": "Crypto Gains 37 (solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "0x043DE901319fD76D0c80CC792C99aC166Ae77cAA",
+    "name": "Crypto Gains 38",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xd5f777e9fe1ad8be78379331b9e3f5d3e5b7b74d",
+    "name": "Crypto Gains 39",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x1aac670eab81fb1dc2be038b91085e31a801f667",
+    "name": "Crypto Gains 40",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xb9421c6b22458db6b2df3fc8e4e1d8172854f029",
+    "name": "Crypto Gains 41",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xDff8fF06cBb7c0A778473062deA40A74f581E6eC",
+    "name": "Crypto Gains 42 (MEXC deposit address)",
+    "chain": "EVM"
+  },
+  {
+    "address": "DD66Zp3sCSS9RG2CssJ2r84QJXcwEqkkHPELS3DS9MAA",
+    "name": "Crypto Gains 46 (solana) (crypto.com deposit address)",
+    "chain": "SOL"
+  },
+  {
+    "address": "B6MTdp6d3oU9J2VajVbdYYWQJTaSPK8ko6Z3ke15AcuX",
+    "name": "Crypto Gains 47 (solana) (bitget deposit address)",
+    "chain": "SOL"
+  },
+  {
+    "address": "0x9074a6eedbc32abbffa64cccaee7e970155f8249",
+    "name": "Hustlepedia 1",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xc91af7f1452c115c785ea6abc907be4cf99f57a2",
+    "name": "Hustlepedia 2 (potentially)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xa294e2ca0e189953fddb3b12166845e487a15021",
+    "name": "CryptoGodJohn 1",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xf97afe8009d939634da3df0aee100e33e55e08c9",
+    "name": "CryptoGodJohn 2 (potentially)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x8d117910f68ac141c841037bc4e21aeb567ef306",
+    "name": "CryptoGodJohn 3",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xB29a4B1409945396F3c7f098a73E13246014B376",
+    "name": "CryptoGodJohn 4 (potentially)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x4d9ea24f196cb74a9ecedf692ff280298690c380",
+    "name": "CryptoGodJohn 6 (potentially)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x4b989547eaa607285e90a372e15433f887a59a25",
+    "name": "CryptoGodJohn 7",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x4c4787D4055BDbB5ddd5ac01cDE7fC712dc2b4f1",
+    "name": "CryptoGodJohn 8",
+    "chain": "EVM"
+  },
+  {
+    "address": "0z874989fe3405c9a4a6e0704167a8a30911ee761a",
+    "name": "CryptoGodJohn 9 (sister&#039;s wallet)",
+    "chain": "SOL"
+  },
+  {
+    "address": "0xc02f318365582557a482eb5d1834dfd7af4a3f59",
+    "name": "EllioTrades 1",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xe72bd07e0caa735bacc8d9794198969d726016b3",
+    "name": "EllioTrades 2",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x892a7c4ab693d12d41af3ade27884e2b94745681",
+    "name": "YourFriendAndy 1",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xcce3557e3929efe7cdf0819ab77dc064c7988131",
+    "name": "Jesse Eckel 1",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xf13081c2fd2b9fece2e084174ef35dac9a05267c",
+    "name": "Jesse Eckel 2",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xcfa7acf8b959b0e370a68492876a09c34ed58428",
+    "name": "Jesse Eckel 3",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xf11677600837b12bf3273bbfe71a174e5c038068",
+    "name": "Jesse Eckel 4",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xff2c1a69a7d54adc3b872fa2f6b3d2eb2421d031",
+    "name": "Jesse Eckel 5",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x555cdfd6ca7e8467e97c399e30802bb8902c6f49",
+    "name": "Jesse Eckel 6",
+    "chain": "EVM"
+  },
+  {
+    "address": "9dN3Wahn8wYLEj2cdbXibk1eF7HG5QWtSEX8WuCuGRBW",
+    "name": "Jesse Eckel 7 (Solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "0x98ae8da2c24e3306d7ad2f412be0b26eabfc6efb",
+    "name": "Jesse Eckel 8",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x27ba04621fe94f7be4dd643ca8128580e7d7d5ff",
+    "name": "Jesse Eckel 9",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x6b2259D7a7d39A545B82766e6EB089c2755A96e2",
+    "name": "VirtualBacon 2",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x39fdf886df8dc6cdec403f037665bf7539924d60",
+    "name": "VirtualBacon 3",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x5aca27aee06a4ac9c839415271bbc4558f8b7679",
+    "name": "James Pelton 1",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x36321c1f313b3445246bd0c7317a4cef641a2af0",
+    "name": "James Pelton 2",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xe126b3e5d052f1f575828f61feba4f4f2603652a",
+    "name": "Taiki Maeda 1",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xb1adceddb2941033a090dd166a462fe1c2029484",
+    "name": "Taiki Maeda 2",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x2f71129b240080c638ac8d993bff52169e3551c3",
+    "name": "Bankless 1",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xfdaae0c5a7a56c8265b9f86cf8cd934a494e3733",
+    "name": "Bankless 2",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x1d19f8310608b2852b61822d4782dd02eb0f029e",
+    "name": "Crypto Banter 1 (inactive wallet, not added to alerts)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x50a9dd4fe2b285f6eb7cfab3598f1ec285e717cf",
+    "name": "Crypto Banter 2 (inactive wallet, not added to alerts)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xb4912f2b408531e67c1b76e0f96ec87c5845673e",
+    "name": "Crypto Banter (Ran Neuner)",
+    "chain": "EVM"
+  },
+  {
+    "address": "A3MywFSojPcFNGSLNbJJnHTe9XJC894zwqehfwRHwLhg",
+    "name": "Crypto Banter (Ran Neuner) (solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "GqBjiUbPjJj2w3A4JmLpVtSgibWqGERa7zJYGCT3qZCX",
+    "name": "Crypto Banter 3 (Ran Neuner) (solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "F6zTiTZo9Gx3gSXzWgRot7kqWxMdsAmhYCfk5qKuXVZL",
+    "name": "Crypto Banter 4 (Kyle Doops) (solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "hmV4sPrtZewxKk2G1ms1ooRyN3tye1tgPJHRY8SZ6Ww",
+    "name": "Crypto Banter 5 (Kyle Doops) (Binance deposit address)",
+    "chain": "SOL"
+  },
+  {
+    "address": "0xfd083edd3ad6662b6235c8f9b00bec8874cb1564",
+    "name": "Crypto Banter 6 (Ran Neuner)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x9df3d71477049240bc1314faf5831df368f46db8",
+    "name": "Crypto Banter 7 (Doops)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xc617c020bf4621fb57fca698c7fcd5a22c247a82",
+    "name": "Crypto Banter 8 (Doops)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x8b518a861fc9e0e95239b11fbf81ca4b8c1bdc52",
+    "name": "Crypto Banter 9 (FeFe)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xd9bdef46b498fc886b10f502d1bfa0a09965a59c",
+    "name": "Crypto Banter 10 (FeFe) (potentially)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x9243dda7c91a9003e3b6ec6203d118f9dcd0f28d",
+    "name": "Crypto Banter 11 (FeFe)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xffa6d7f8aa0f1a128bdf6cda1e5b24039d49b32d",
+    "name": "Crypto Banter 12 (FeFe) (ByBit Deposit Address)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x9afdfdff740b1f62a804919c07b3533550b2fd0a",
+    "name": "Crypto Banter 13 (FeFe) (Binance Deposit Address)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x2c27d344ac77c55128f3477612669333d0af5f83",
+    "name": "Crypto Banter 14 (Gustavo)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x12b75d4549ae0145387c6ddf7923caefe2ad079d",
+    "name": "Crypto Banter 15 Binance deposit address",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x9f5b6d055535de13b3b06f37b5632f649abbb35c",
+    "name": "Crypto Banter 16 (Gustavo) (potentially)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x02b83610763836082d19ffdac73b8dfdff9db4ba",
+    "name": "Crypto Banter 17 (Gustavo) (potentially)",
+    "chain": "EVM"
+  },
+  {
+    "address": "3kgvhExQKrJNbbiZUNf9VKYShCMYysNtotja4cEGAHGP",
+    "name": "Crypto Banter 18 (Fefe) (solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "DCD1C8GBFSzFtA1bBmgWuQfRZmWGySjYkvu3MNq2gX7v",
+    "name": "Crypto Banter 19 (Fefe) (solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "pdajyhV7nvyYKDMHvyYafZNFD3guPJDyJvWyu9nxvVo",
+    "name": "Crypto Banter 20 (Fefe) (solana) (Binance deposit address)",
+    "chain": "SOL"
+  },
+  {
+    "address": "0x66886B3A3DC2b44cb69B18a6b5aF3A989290BDbF",
+    "name": "Crypto Banter 22 (Sheldon) (Bybit Deposit address)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xec8b5a59c56b7467666e9787210dcd0460108883",
+    "name": "Crypto Banter 23 (Sheldon)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x71a68ed20fadee3cb924dbb7640175649fa7eabe",
+    "name": "Crypto Banter 24 (Sheldon) (Kucoin deposit address)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xe8e09423d945bb67fbd61c15beaf978f07b9f303",
+    "name": "Crypto Banter 25 (Sheldon)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xb7fcd5A1f1684cfA0022134890bdB91B510BD359",
+    "name": "Crypto Banter 26 (Sheldon)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x2721535b2fde88e91fc5cd5f636f609b25a94aef",
+    "name": "Crypto Banter 26 (Sheldon) (Kucoin deposit address)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x84b8f2af70a4e415793f9a3ad61c125bf1dc846f",
+    "name": "Crypto Banter 27 (Ran Neuner)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x808234952c86f20afce1f00062a1b55232c5115e",
+    "name": "Crypto Banter 28 (Print my mint)",
+    "chain": "EVM"
+  },
+  {
+    "address": "9ZcEWn4kCH4PcUXKV9NQ2dSG1GB5hfDTVjJLE8vybGSh",
+    "name": "Crypto Banter 29 (solana) (Kyle Doops)",
+    "chain": "SOL"
+  },
+  {
+    "address": "3Q8HQuRhAbCSrERZQ2JwMkw9Gtjrghes9pyDBoJZvzvd",
+    "name": "Crypto Banter 30 (solana) (Kyle Doops)",
+    "chain": "SOL"
+  },
+  {
+    "address": "0xfF67f8461e96a3d0e618476aa0421cFF4DAe4184",
+    "name": "Crypto Banter 31 (Gustavo)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x8831d14118f1c08100bff7f73852225883b4eda8",
+    "name": "Coinsider 1",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xf2ac2469565f11b4c4926a6d074533499526f9ca",
+    "name": "Coinsider 2",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x1b523DC90A79cF5ee5d095825e586e33780f7188",
+    "name": "jrny club 1",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x04c5572734b908901056b9ccaa6ec19e2c04dc04",
+    "name": "Sheldon Evans 1",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xFAeFcb66EaAdaA24B98DE173FBEcDeF03E6B6bdC",
+    "name": "Fomo Factory 1",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x263157fdd57c40975b3350e58ad7e41130d5e072",
+    "name": "Fomo Factory 2",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x35092eab7c0d825c0de30ed51b4e88cdec3378fa",
+    "name": "Dr Profit (https://twitter.com/DrProfitCrypto) 1",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xAAB51045B3ECA8a6178Afa3189De5E9E9BA4ce36",
+    "name": "Dr Profit (https://twitter.com/DrProfitCrypto) 2",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x2440B49aD72876b3205574a033342939961a3528",
+    "name": "Dr Profit 3 (potentially)",
+    "chain": "EVM"
+  },
+  {
+    "address": "V8gNCVTi67CCpNMaKJuUonLrzjesQihc2J5AHnjaESE",
+    "name": "Dr Profit 4 (solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "0x2146c20Fe05346C15F58bB533E65E34E69f2e148",
+    "name": "Dr Profit 5",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xf307b00c15f0af9b18b07e1a34d8c8d9b0439a42",
+    "name": "Coinband.io crypto youtube marketing agency 1",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xb4fac39ec509ae6cf0a385ed8c9de8f82d4256cb",
+    "name": "Shark Numbers 1",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x5fC5652c50938710136e9Cfe099BAacEf0167b18",
+    "name": "Bitboy Crypto (Ben Armstrong) 1",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x60CE68f70A5228764918ecFEDf873Dc5E32CfEe0",
+    "name": "Brian Jung 1 (inactive wallet, not added to alerts)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xfEF9Aae4C7e05c71eaF485cc2Be7e0BF010C7E72",
+    "name": "Brian Jung 2 (inactive wallet, not added to alerts)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x381D6Fe44C7800c26afCc7Efd6EF4829a12eD2C1",
+    "name": "Brian Jung 3 (inactive wallet, not added to alerts)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x590ac73c3f980799f2aeafeb56ae2b82362bbfea",
+    "name": "Brian Jung 4",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xd278e4dc9c10ff1c8722c464e4f77c298360e94f",
+    "name": "Brian Jung 5",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x32bA3Fd50Fc7F6e8d62C5359299e488518C051E9",
+    "name": "Thor Hartvigsen 1",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x57551569787f6a00c7e6b9f5e4d6b6f81eace87c",
+    "name": "Thor Hartvigsen 2",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x297c1f9ef8c61caa02f024110a39b67f436254f8",
+    "name": "Thor Hartvigsen 3",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xa255897cbf6c84695be04acaa73457c22ead1a93",
+    "name": "Hasheur 1 (inactive wallet, not added to alerts)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x371e707bf737a4a1a6394bf83351761901aeb477",
+    "name": "Hasheur 2 (potentially)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x352cfc5d218052c0069a69c2b74859bc8eceb0d1",
+    "name": "Coach K 1",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xb3f4a74e62cbfd753c8c6628956b757598ababd5",
+    "name": "Coach K 2 (Binance Depot address)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x563ca146274aa70efe69f8f0a0d45bccef4c22e2",
+    "name": "Coach K 3 (deposited to same binance address)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x1e482e9c3c82c3f4b0ef2d90857b27d07afc1978",
+    "name": "Coach K 4 (deposited to same binance address)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x1c9a017db6689e98d478c030a1ac7a207b4d1c45",
+    "name": "Coach K 5 (deposited to same binance address)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x70031213c95deecfa44a6c438bca25134a292eef",
+    "name": "Coach K 6 (deposited to same binance address)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x486d6113b002750fdfa51e767c6306b967b9cd19",
+    "name": "Coach K 7",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xfb889e1a1f4da07edaa94f7dc535d03cd5aab669",
+    "name": "Coach K 8",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x748e75bc06ea5e18722a18e1373c6794f4969c45",
+    "name": "Coach K 9",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x8eb5bea6b1dbbecbc14c48ee197f59f99c95ec13",
+    "name": "Coach K 10",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xeddb637e85359fc09e6ab01ea931ea48d45e2668",
+    "name": "Coach K 11",
+    "chain": "EVM"
+  },
+  {
+    "address": "2hbSeu2MrYybrWCTapYovasv83VdKbaiw1UympTKg5iy",
+    "name": "Coach K 12 (solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "ERyUo3WrggRvzd9FtwfjxRJ9x9s5X98uLjxgFEDVwukm",
+    "name": "Coach K 13 (solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "0xcd70c83f22de83aa2cbc0ea0e86a8ef1562d6263",
+    "name": "Boxmining+ 1 (Airdrop Youtuber)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x5dc4f6d286a16dcf35c90eb73b46f637619d842d",
+    "name": "Boxmining+ 1 (Airdrop Youtuber)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x2bd54fa938f47609cac728b75ee796fa06defae4",
+    "name": "CryptoRUs 2 (potentially)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xfcb2fb717a358e054c4ee2fcab5e0c97d9e1b609",
+    "name": "Crypto Empire 1",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xa7c79bfa319d97eeb99bd3c5c65bd15d82f2ffc6",
+    "name": "Crypto Empire 2",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x1be8be5211a9b7bd8b5f74adc202395b34dfc202",
+    "name": "Crypto Empire 3",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x65e76a6bbf5f2329001e7c26ad4933014bd1767a",
+    "name": "Conor Kenny 1",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xdb929938137fe4f4b28814532292ea3a7cf94e5e",
+    "name": "Conor Kenny 2",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x133c347303fc67b9ab3a1e083312be825b33ecd8",
+    "name": "Conor Kenny 3",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x23b317d6e1a904a2590ad9a9adc8e8fa88e90837",
+    "name": "Conor Kenny 4",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x76c904fb5eb470f9bfbdd7b880f22fd875f73c9f",
+    "name": "Conor Kenny 5",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xc607d578f080b1485c80d6ce33c0713af73fd779",
+    "name": "Conor Kenny 6",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x1e8d0e0f85bac5da5fcc694ffe3a4ae293adc11e",
+    "name": "Conor Kenny 7",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x24f573614c761a3d897395625a431eec15850fe4",
+    "name": "Conor Kenny 8",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x6d2b601bf1dac3a6dbf9dc6ced24dd8522f8d589",
+    "name": "Digital Asset News 1",
+    "chain": "EVM"
+  },
+  {
+    "address": "AxRYWY4w6shp2udSWwQwEWvLXoVxRbChsofNEnmF2tno",
+    "name": "Digital Asset News 2 (Solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "0xa51bd2df95a6847118e3e5e4aa979ead98e8b126",
+    "name": "Handsome Finance 1",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x5dae4ffa4d6faedfd9ccc08c019f18ccf3ce41fd",
+    "name": "Handsome Finance 2",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x6aa3b2b9c642ec5d007ebeea7dc59d0f52868217",
+    "name": "Handsome Finance 3",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xf5d9d27a1c6d4d323bf2f2aef285a3564894bc05",
+    "name": "Handsome Finance 4 (potentially)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xcE70250299486cDfCdE6e77DBCbD248e8023afed",
+    "name": "Handsome Finance 5",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x10472fea972d9dde0c7ef98bd81209a4e4d13277",
+    "name": "Cagy.ron 1",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xfa2a18ed2dfed253b43f3bfede1205a8a604a992",
+    "name": "Cagy.ron 2",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xb5aF44e8725D830535e6CA783417e1DB4b939d67",
+    "name": "Cagy.ron Coinbase deposit wallet",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xd87d09d9363db5d3f37fdd89a5039fec195bc375",
+    "name": "Cagy.ron 3 (potentially)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x3675a64e6742b06c83bb4aa2cb39e32454604c7e",
+    "name": "Cagy.ron 4 (potentially)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xd9b8c39b0160fae062ed2b4a97799751be1690d4",
+    "name": "Cagy.ron 5 (potentially)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x664fe01207dc37c84a97a8dcdc28bcc1da6bee57",
+    "name": "B3nn.eth (manilacrypto1) 1",
+    "chain": "EVM"
+  },
+  {
+    "address": "GpDG6QNDzV6kJacirKLpn2YGWmy1DHFUTA9MawFGTeK8",
+    "name": "Invest Answers 1 (Solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "5drPDPTDyUz2zkLc6R99wSsSsQ9HaRFnJm1Z18U8U14b",
+    "name": "Invest Answers 2 (Solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "3ZZNGL7XerNqdkSXwEsbhvXVCioxAoFd4B6tZBVJcPKS",
+    "name": "Invest Answers 3 (Solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "2VABJJMuaa5Nj5UPwoqReSssG5BJc3ibxt7eLLUwkdQY",
+    "name": "Invest Answers 4 (Solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "5AwqLv7ifVSHSUaX5zyZ9Zco1jsowkACdxKwU1uwxMTc",
+    "name": "Invest Answers 5 (Solana) (potentially)",
+    "chain": "SOL"
+  },
+  {
+    "address": "0xc17582c07c9c1eaff9be5b7b35781946c7e3341f",
+    "name": "No BS Crypto 1",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x135f0fe7ba8c5370863bcc079c62f43c900b6739",
+    "name": "Tyler Hill investing 1 (potentially)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x21836ab46AcE100612C33407A0a5f92afc37d776",
+    "name": "House of crypto 1",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xD5303d95b92bBCA1C692e29AdC6130873D0B250A",
+    "name": "House of crypto 2",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x4d4f368acc1e14c5e7c4d9f4420b32c25ddd4589",
+    "name": "House of crypto 3",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xE4A62cfA36CeB71033c221764F20a300c233BB62",
+    "name": "House of crypto 4 (potentially premium, the league)",
+    "chain": "EVM"
+  },
+  {
+    "address": "4S8n1XKDUwkvev4xdjCbLuHvXQTif7BaXaVTPmBxjSm3",
+    "name": "House of crypto 5",
+    "chain": "SOL"
+  },
+  {
+    "address": "ASe8tFrxQRFDZgLnU7boaaEXSLPxVwAjLjNAPMmRFDeN",
+    "name": "House of crypto 6 (Kucoin deposit address)",
+    "chain": "SOL"
+  },
+  {
+    "address": "6xWw38SJvgQBCn3Veytpx9UgqgL7AbUgwu4QCY9RJKER",
+    "name": "House of crypto 7 (Mexc deposit address)",
+    "chain": "SOL"
+  },
+  {
+    "address": "64r9XfeGngy3FqoA5HkvCkYSKnBiZyA1fLHvqgnBVHQ4",
+    "name": "House of crypto 8",
+    "chain": "SOL"
+  },
+  {
+    "address": "2NkWKBBHPKF3HBacKGR81qnvabrsx9czV3Dvz15MFBLF",
+    "name": "House of crypto 9 (Binance deposit address)",
+    "chain": "SOL"
+  },
+  {
+    "address": "0x96A5631a8BAAEC88Dbc61126351d464F3aA75873",
+    "name": "Altcoin Daily 1",
+    "chain": "EVM"
+  },
+  {
+    "address": "Gd2KmhFJ13QeVvWhf3TXqfoXFJNYGhAcMHe9aVJxK3m8",
+    "name": "Dynamo Defi 1 (Solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "0xb7d25a5019e28472fa3275ddec1a5f7e4d263350",
+    "name": "CryptoCasey 1",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xc8af7076de5634497e10ebf21325da49cd5de464",
+    "name": "Kyle Chasse 1",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xa6af9244628c554b46b0f0d994c8dc2cf849db15",
+    "name": "Kyle Chasse 2 (potentially)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x5b8235604885b9fb34e6dde5d8b47fb92c0371a9",
+    "name": "Kyle Chasse 3",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x263F528C17dcb466620Fa226b669a1A15e691984",
+    "name": "Kyle Chasse 4 (bybit deposit address)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xe3def401c2d38223b6c37452daf29df0cf6d724e",
+    "name": "Kyle Chasse 5",
+    "chain": "EVM"
+  },
+  {
+    "address": "GjRacG5qhTwQfUd5r8qAYdiUEVpArJt1T3VcYJh9SWR4",
+    "name": "Kyle Chasse 5 (solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "0x99df0dcc103daafb733149dec6b57f1d82a0fb82",
+    "name": "Kyle Chasse 6",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x0f37c7d79d9c925f0da156bf5befbdcf073fa271",
+    "name": "Kyle Chasse 7 (bitkub deposit address)",
+    "chain": "EVM"
+  },
+  {
+    "address": "92jsRH3DDS46xnwaww4FBuwQaKju7NSiCTEVSAkiouPm",
+    "name": "Kyle Chasse 8 (solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "0xD266d61ac22C2a2Ac2Dd832e79c14EA152c998D6",
+    "name": "Kyle Chasse 9 (Master ventures)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xbe6c9014c4d3fda2696dbbc725d642afe8c7ab43",
+    "name": "Kyle Chasse 10 (potentially)",
+    "chain": "EVM"
+  },
+  {
+    "address": "82oPqM27gwJrvCdRnhbjeGCqusY2TknkQbBrpmqVkAXh",
+    "name": "Kyle Chasse 11 (solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "0xe14767042159e5bd2bf16f81a0fe387ab153fbb4",
+    "name": "Pepecoin / basedAI team 1",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xfddf29bbb722121c3ac58acc2cf1ab26462f3eeb",
+    "name": "Investidor 4.20 1 (brazilian youtuber with 200k subs)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xd9d0279a05a3b9b3f869044f45d7e18b1441a5a8",
+    "name": "Investidor 4.20 2 (brazilian youtuber with 200k subs)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x00d283ce0e86857bec0d20212a704a26f5aeaccf",
+    "name": "Investidor 4.20 3 (brazilian youtuber with 200k subs)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xd7d31193b84ca0ca06c1663d5d93b3b7c746c63e",
+    "name": "Investidor 4.20 4 (brazilian youtuber with 200k subs)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x688f4ae0b2a35081dc202d9a872a82f8d6769f28",
+    "name": "Investidor 4.20 5 (potentially)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x77Cc3b04Ab531dbAB3a0018DD3f883206694bf59",
+    "name": "Investidor 4.20 6",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x767E17d7933f1dB9fFBc6c57d96806e25A788a88",
+    "name": "scapemarketing.eth (paid cryptogains 10k)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x037031b546588fcdb43919a0ab389bb670af54a4",
+    "name": "Wolf of altcoins 1",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x5ad1c913b61517247783ae1868a0390bbe767efa",
+    "name": "Wolf of altcoins 2",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xd224f5c12644e54d6349faed2b6e8267503d3adc",
+    "name": "The Moon 1 (bybit deposit address)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xcfeecdb777b33bd6db20d2ea7d54a07c18a8fc97",
+    "name": "The Moon 2",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x25c4c3e7abc0c731f2df0147fde7ef75ee34bb5e",
+    "name": "MoneyZG 1",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x8732278A6a29FE755b0eCBc93E8Af92d87A0C32e",
+    "name": "Crypto Lifter 1",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x176F3DAb24a159341c0509bB36B833E7fdd0a132",
+    "name": "Justin Sun 1",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xd1899689D8bdCF7a0dF69d0825aA23E3B46a4Fbf",
+    "name": "Justin Sun 2 (Binance deposit addresss)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xa69a3930e957d3523c7cb69a82d4d312e02c386b",
+    "name": "HC Crypto 1",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x22feb16073072ee8fe9116c82afa4b34f55ff1a9",
+    "name": "Flash Cash 1",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x2111B73638729e4e2481dbbD40A822e325aDa607",
+    "name": "Suppoman 1",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xD2fBb486a15f5a7C35703571a983e871c349F8Bb",
+    "name": "Suppoman 2",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x252378dd762da1eb778e1a3b6683f5457184ac98",
+    "name": "Suppoman 3",
+    "chain": "EVM"
+  },
+  {
+    "address": "WE8G2hrBPmRiwqLHYmyvuL4kTJPgfPPv7np2sQYFrNT",
+    "name": "Corne Marchand 1 (Solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "0x6896258c80dc9f3b86b2e871485bb476bf66a589",
+    "name": "ColinYurcisin 1",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xbb3baa9e4be8a08c50ad6cc3f712a475f4b9d114",
+    "name": "Dogecoin Millionaire 1",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x19371596bc30495fd6513a80b489052b487db186",
+    "name": "Stan Crypto 1",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x0516C0Ea7b00D653DA4bE1EcAB800e3F59541ACe",
+    "name": "Stan Crypto 2",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x6792849e4aa13d051059a850b62035b5c9dc5744",
+    "name": "Stan Crypto 3",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x5142EB900f2F1Df3cDed847500A44F51b919b697",
+    "name": "Stan Crypto 4 (Mexc deposit address)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xb81fb2f147496a393cfd9e2af19bb7ca3ca81ee4",
+    "name": "Stan Crypto 5",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x7c7f2b6b0417942fe71d6e856e0cfa465c587cb2",
+    "name": "Stan Crypto 6",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x81e5Df3C49F70d0333c02802ecA772AB26C87B25",
+    "name": "Stan Crypto 7 (Bitget deposit address)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xd19f1c5941A1B8a469BD5e6B9b29eb3d7d3D2cFB",
+    "name": "Stan Crypto 8",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xc3a78ca691a80d0c814b2ce75257c7df382aca21",
+    "name": "Stan Crypto 9",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x6375f91a662a5893fbc516ae5f8083d08cf6bf09",
+    "name": "Stan Crypto 10",
+    "chain": "EVM"
+  },
+  {
+    "address": "Fhz9QY6VLojxCgffNQGfTQk1JachGzaRSb6appo2q49E",
+    "name": "Stan Crypto 11 (solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "CK4DHRuHHKKPwrvDH3yGXEkKqxnTQVnhPsMuhSRmuFwr",
+    "name": "Stan Crypto 12 (solana) (Bitget deposit address)",
+    "chain": "SOL"
+  },
+  {
+    "address": "0x7a39912550761e4e12932ba404d9880728d6a377",
+    "name": "Stan Crypto 13",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x9A34236DB1e874878dC2751ba7a761686B55C525",
+    "name": "Stan Crypto 14 (Bybit deposit address)",
+    "chain": "EVM"
+  },
+  {
+    "address": "4YtQEV7sBuG62ni2zeZ3r5qkrAcVdaDHbeAVyGKjwTtN",
+    "name": "My Financial Friend 1 (solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "G3q2zUkuxDCXMnhdBPujjPHPw9UTMDbXqzcc2UHM3jiy",
+    "name": "SajadAli (Solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "0x5cff123aefcfa3ccb281bb6c07b86a0df4d2f1ee",
+    "name": "SajadAli (trading bot) (potentially)",
+    "chain": "EVM"
+  },
+  {
+    "address": "GttqmiCVpZRLycKDzbxQcj4forDvQmTMywxeB1ppU5nG",
+    "name": "SajadAli 2 (Solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "0xffA1c77eD73ca272d9d45D92321203c32C945665",
+    "name": "SajadAli 3",
+    "chain": "EVM"
+  },
+  {
+    "address": "4EWC9SR4xhY6Uo3nbZgRGyPU3voPEm2zcGYs4J9iQ7au",
+    "name": "SajadAli 4 (solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "Aj92S4Urf22D4V1HPHnDc4VmtrkrN9VSPTcG9sCQ2NJe",
+    "name": "SajadAli 5 (solana) (potentially)",
+    "chain": "SOL"
+  },
+  {
+    "address": "85mSm9e6camKui2cf9esimJCmSRz2RKvn2NsBCRyLuAw",
+    "name": "SajadAli 6 (solana) (potentially)",
+    "chain": "SOL"
+  },
+  {
+    "address": "DYvXroaXU9RReCDVehuoE9fUTv2f5MHsJj6AeKJrdsCL",
+    "name": "SajadAli 7 (solana) (potentially)",
+    "chain": "SOL"
+  },
+  {
+    "address": "0x0d2e9e975c02dc3fa0e50016166515b639dfca31",
+    "name": "Miles Deutscher 2",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x5954c856ea33d37003af9400e61c0e83632a666a",
+    "name": "Miles Deutscher 3 (Bybit deposit address)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x7289ac2d573e4e76a2ffa17dc683e3e502c71726",
+    "name": "Miles Deutscher 4",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xAe86e5Ab98970BEf512c8ccD3f06A5f17B8D8a27",
+    "name": "Miles Deutscher 5",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xf58d592217854ee0482df463417ba2849f4c1a9d",
+    "name": "Miles Deutscher 6",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xf232ae1f8fc5d4bfeb23b4fe1d915676292f06a0",
+    "name": "Across the Rubicon 1",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xfa4abcbbaf293848b23ed8110ad495a201a1ce1e",
+    "name": "Andrew Tate 1",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x86281ff365a7b8a22ecfc71e01fd90b86c337f2e",
+    "name": "Andrew Tate 2",
+    "chain": "EVM"
+  },
+  {
+    "address": "4jRX4iW2F5wBnfYMyB7RjS2PU5MjXrST3fB9DoV4BjHa",
+    "name": "Andrew Tate 3 (Solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "0xdfadc655a83875db08d26f81fb3a8245a7340052",
+    "name": "Daniel McEvoy 1 (potentially)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x55cafc85c68cc2f558fa4da995173ed6cebe213d",
+    "name": "Crash Trading 1",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xb00dd5535164dac7c5af1d805fd19849d65d53e3",
+    "name": "Crash Trading 2",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xc148368d792937c649bcfe64ccf101dd6d7d77b4",
+    "name": "Full Value Dan 1",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x472f64877ee59e57b92e0c09569fea6c32307d76",
+    "name": "Full Value Dan 2",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xa6f2b03e3c65961f47ca49afdb56ef06825cbfac",
+    "name": "Full Value Dan 3",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xc17ee513f789c395d08443a1aec21556891cae74",
+    "name": "Full Value Dan 4",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x59cdbdd274123ef1aab0d32f7f7ef48f3dc7ea77",
+    "name": "Full Value Dan 5",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x2f1ac6ee59b4f4b2d111c7a3aeda4df872413985",
+    "name": "Full Value Dan 6",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x51d5dce574931de58cc5914b9e6be1b0e3e77427",
+    "name": "Full Value Dan 7",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xea6537685af54abfc281f05297eecdad438cbaea",
+    "name": "Eunice D Wong 1",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xD6757af56D778aB827374278ae9560791e3Eb5f4",
+    "name": "Eunice D Wong 2 (binance deposit address)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x620a2c25c657955274098765cc840393dcbdc20f",
+    "name": "Eunice D Wong 3",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xe7183Dd50c3aB4b5aEd849B7F3aD34fa80DD6BeE",
+    "name": "Eunice D Wong 4 (kucoin deposit address)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x5CbAA00D8e39D956A39930E834179D8804505489",
+    "name": "Eunice D Wong 5 (mexc deposit address)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x5381cea54d72f2a360a303c515bc6aff856b81b8",
+    "name": "Eunice D Wong 6",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xe2cd830acc58d5a0e2f55cfedac116b793a2224f",
+    "name": "Eunice D Wong 7",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x566b0b396d0d4682dbebe23cf7660d881adcc697",
+    "name": "Eunice D Wong 8",
+    "chain": "EVM"
+  },
+  {
+    "address": "FbjKEMJXjr2cgw4UwVpxSN1uFAq1xWNDHGRg7giYjduN",
+    "name": "Eunice D Wong 9 (solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "EUABKSyTSW3zfCZf92FmybvDVRydEsBqSymch8PbiG8d",
+    "name": "Eunice D Wong 10 (solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "F9mraAERtq3t8XuV9JumQcTwU9TcTC22f43YDV8nfN56",
+    "name": "Eunice D Wong 11 (solana) (Binance Deposit Address)",
+    "chain": "SOL"
+  },
+  {
+    "address": "BtivsiP1YxG9Z1Jiiw9HMFTf1N51Rmb9X9FweJeVtS92",
+    "name": "Eunice D Wong 12 (solana) (potentially)",
+    "chain": "SOL"
+  },
+  {
+    "address": "9qR7Yqgdr7C6QBmtJmWqkLxMGtkjV9afew1tCvr46hkc",
+    "name": "Eunice D Wong 13 (solana) (potentially)",
+    "chain": "SOL"
+  },
+  {
+    "address": "7jfJWduw21pA7Qqu1T1c8gPegURy5vLpK4qNDBqtcQTi",
+    "name": "Eunice D Wong 14 (solana) (potentially)",
+    "chain": "SOL"
+  },
+  {
+    "address": "7F78tBxMGayHi4z8XNhaEL61M3tASWSiDSESd9W8ARi3",
+    "name": "Eunice D Wong 15 (solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "Dnq5RMif9c8sY2eXL42Ascu8ataFfaYVXSK5piDJA81y",
+    "name": "Eunice D Wong 16 (solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "0x8589cd7a7B9E0C3eA3552FacB8ff11B3135baAD7",
+    "name": "James Wynn 1",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xde349e70c2d9dac857f0ff984873176c87b48b4d",
+    "name": "James Wynn 2",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x97efbd406C69d31304Cc354958f2051E7f952FA6",
+    "name": "The league (hoc and peter voogd) insider 1",
+    "chain": "EVM"
+  },
+  {
+    "address": "9CypWEUbRpuDzEYYJajJkvvvRZzCxyf9aeBmK3vPDb4U",
+    "name": "Ansem 1 (solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "2BPBLJ2iFrfWUfNzeXw3VtEAY4SZ7WG3Smmg57F9vUEr",
+    "name": "Ansem 2 (solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "83g7NPT2Dax9rcFkggJXKkB1o9BCwgGtzMC1Y6Wigt4K",
+    "name": "Ansem 3 (solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "AVAZvHLR2PcWpDf8BXY4rVxNHYRBytycHkcB5z5QNXYm",
+    "name": "Ansem 4 (solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "Eo3SV5mp2rrTShS722Ec5iFiiFT9WPC6Ac61Lq3aC8VJ",
+    "name": "Ansem 5 (solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "7NmUkhTn7ReSSDSLcdK3mi8UPGZbAhyawaX6aS2eS4fh",
+    "name": "Ansem 6 (solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "5AiqjdgfvNVNLzjunBeBkJXeWqU2moWMUgCogsHgxoW4",
+    "name": "Ansem 7 (solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "0x849151d7d0bf1f34b70d5cad5149d28cc2308bf1",
+    "name": "Jesse Pollak 1",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x8e86e5331d3a020909c9e42ea9051675555f5e49",
+    "name": "Jesse Pollak 2",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x6e0d9c6dd8a08509bb625caa35dc61a991406f62",
+    "name": "Jesse Pollak 3",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xe73f9c181b571cac2bf3173634d04a9921b7ffcf",
+    "name": "Jesse Pollak 4",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xe6e0239050264a1d7a7c0912831c921ffa5fbaed",
+    "name": "Jesse Pollak 5",
+    "chain": "EVM"
+  },
+  {
+    "address": "F9cDAe8d8HWowH96vsjcZ4VUMQ3dxSEqX7MPk741GJTS",
+    "name": "The Krypto King / Tyrelle / Intrstellar Vntr 1 (solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "9BCHPCZWAhWa9C9sRhXJwHqe3m3jedtxbhj7UvnkEqTp",
+    "name": "The Krypto King / Tyrelle / Intrstellar Vntr 2 (solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "AY6bCogo9U8azdsm92pCb3uG7SLwuAQoyUAftWTYmyFZ",
+    "name": "The Krypto King 3 (solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "3uvo3UWQYp4BG9GV2aLphJRd6Xsoa65vanofV7UuUjfh",
+    "name": "The Krypto King 4 (solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "7NJxzJPD1xLM3VjX4J1K3D5DrEsjbZg2m4rqK8doe5dA",
+    "name": "The Krypto King 5 (solana) (ByBit Deposit Address)",
+    "chain": "SOL"
+  },
+  {
+    "address": "4PcRGw9PNdPW16fNoa2jxSgrcKMnfngCc2J4irLPjQCQ",
+    "name": "The Krypto King 6 (solana) (potentially)",
+    "chain": "SOL"
+  },
+  {
+    "address": "2P8cSt7oBEzhBFbk9p9Z8Dn6KzRaBH3Ze6pKzpnMWaWe",
+    "name": "The Krypto King 7 (solana) (potentially)",
+    "chain": "SOL"
+  },
+  {
+    "address": "0xd07d6ee6a6e23d8ab64b3a844d8946f0c3ab92e0",
+    "name": "The Krypto King / Tyrelle / Intrstellar Vntr 8",
+    "chain": "EVM"
+  },
+  {
+    "address": "EicxNjTUYFkwiaq3bGwdx8L5FXjdsgypYgdD7Sc18WjH",
+    "name": "Martini Guy TMG 1 (solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "AJJPgUTLjACdARJT3m7tkHTobx3pktsKDUNC8kaLyY84",
+    "name": "Martini Guy TMG 2 (solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "5WaCdtRj1G5iXQ3AcH5quAbhR9kTe5hSXwC9gZsFGwtX",
+    "name": "Martini Guy TMG 3 (solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "7FKVaGDkBjdzLG7SenCEnWknybBWo6SqjkbMMMPw5vtj",
+    "name": "Martini Guy TMG 4 (solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "8XkkWitsDf3QHgoHeJ32K7EFkELPMQGzFyL8Kyw7xJKH",
+    "name": "Martini Guy TMG 5 (solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "6rBp3nx81w9qTyWUYbx9VBYLXQWBTR6QpugBc9BsBhcU",
+    "name": "Martini Guy TMG 6 (solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "Hq2fMf22QSkHvFY5uccx63ECoX7MwSVk9PupAtW2qF8E",
+    "name": "Martini Guy TMG 7 (solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "21TjU2sGJcE8Q29fY9GZ79vVPAjEhraRNKy4ibmxhrvK",
+    "name": "Martini Guy TMG 8 (solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "5qzcoM9Dxkm4RftS3Fy5FPe2qZC8KtJBjyZTP8dYsKfQ",
+    "name": "Martini Guy TMG 9 (solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "47vEXWZ4AieASjXPwX9oSbckFxnskeFwvT2mXL8yDsUD",
+    "name": "Martini Guy TMG 10 (solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "DcgVuxrYHCZQUtLgYSddqL12FKYa2qnWcGGyb1H79thc",
+    "name": "paulo.sol 1 (potentially) - Pauly?",
+    "chain": "SOL"
+  },
+  {
+    "address": "rBGgaGFT3WeWFzAFagZZpA3XjhfqkoPLyATtCw1YLqL",
+    "name": "paulo.sol 2 (potentially)",
+    "chain": "SOL"
+  },
+  {
+    "address": "7czPHAMcB6aTATrfGmwccz7E93agswGFMrGU3esRYtrS",
+    "name": "paulo.sol 3 (potentially)",
+    "chain": "SOL"
+  },
+  {
+    "address": "AW4V2dp41Xj4CYraqCNmoMo8M4M753rHF4LkXo1Y6awc",
+    "name": "paulo.sol 4 (potentially)",
+    "chain": "SOL"
+  },
+  {
+    "address": "3CrkxQSXGnk4p89URSbYuA44xBtj5vdfusZb8bHbNiqi",
+    "name": "paulo.sol 5 (potentially)",
+    "chain": "SOL"
+  },
+  {
+    "address": "8s2FCwbfR2eEGpYyozAsosCjEWeYd5qk4XaaoEYFkayh",
+    "name": "paulo.sol 6 (potentially)",
+    "chain": "SOL"
+  },
+  {
+    "address": "AqasYzNTYkWgMsjKJZnhQuUNBL99oMjKMi3vVRwNPQSL",
+    "name": "Bryce Hall (solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "0xc61ee98439eF0E8506BA9C9B74D807BF6910D375",
+    "name": "MrPunk.eth 1",
+    "chain": "EVM"
+  },
+  {
+    "address": "9gyh9VptAPag1WU29JRnQpezQZUXw59H6K5h91467Hem",
+    "name": "MrPunk.eth 2 (solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "H3AkHZHfcqGCcJpBn3FJWe52LcLxFMJQoZvZ6XyApFWf",
+    "name": "Nate Rivers (solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "0x6ba0b52138e4abcdcf1264776dd25769d0aa339b",
+    "name": "Stan Crypto 15",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x4574f41bc20f85f7afa1fed083f61ddb0244c9e3",
+    "name": "Stan Crypto 16",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xcfd640a62153ab372cd13cda260b1f657a8c7de2",
+    "name": "Stan Crypto 17",
+    "chain": "EVM"
+  },
+  {
+    "address": "9oDWHsELAa9tVrL5dszjWSnWvSeLNEZLucYQzQWBhnV9",
+    "name": "Martini Guy TMG 10 (solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "6WVHz3B8MSQq9o9ZzTJcFSEKRMUdKJ2HXsc6Pb2bQvE2",
+    "name": "Martini Guy TMG 11 (solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "0xae2f188051c3a0edfaea66d44d825a01fbe65a5e",
+    "name": "Crypto Gains 48 (potentially) (Kucoin deposit address)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xABCEEFbf80a6AEBc2d34482A008B8ee72365c3fC",
+    "name": "Crypto Gains 49 (Kucoin deposit address)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x98601705ea99a58414f1dc71e111207481609061",
+    "name": "Crypto Gains 50 (potentially) (Kucoin deposit address)",
+    "chain": "EVM"
+  },
+  {
+    "address": "4gXPCmmVbAsqH8VrDD1eL93U3rGar7hUu2ChjhM99dDt",
+    "name": "Messi 1 (https://x.com/1goonrich)",
+    "chain": "SOL"
+  },
+  {
+    "address": "0x62dc0aeeed45d347ad0fa98bf3436c9647827dd6",
+    "name": "Stan Crypto 18",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xc5f05756e1b0353d673b13dd792b225eebf1c63f",
+    "name": "Virtual Bacon 4",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x545b74cf29bf64373ef014320d580c0407f2da79",
+    "name": "Virtual Bacon 5",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x399bbde115cb626d8dafaf2e79a1373c96fc3dca",
+    "name": "Virtual Bacon 6",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xee2401ecfbe551199eef0c9dd1ff6bcceedf5ec6",
+    "name": "Virtual Bacon 7",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xd3c78ed8ca8d30ef4876302167bcdb680024f640",
+    "name": "Max Maher 1",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xe3208389c0b374997d4f2cb860c885a2d625ce45",
+    "name": "Matts Crypto 1",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xdc88db8b2e31522c0063ddd67eecf8cb11ea4697",
+    "name": "Jude Umeano",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x304f2bcc7f9775de65ccd1b453eaae55c9b96d39",
+    "name": "Marvin Favis",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x2F652A949D020231e7b8D976788f6b15093903D7",
+    "name": "Crypto Gains 51",
+    "chain": "EVM"
+  },
+  {
+    "address": "4Z1NjgKje6Pwb5QdmdnHJENiYujmWjawzKfm872YX6PF",
+    "name": "Crypto Gains 52 (solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "DBJ6qJmLjm6SRfLLpA4PkPFcje7Ztr3eUK88czrgA3un",
+    "name": "Crypto Gains 53 (solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "6fcLXpEMp3eRen77kXU9hfDCitbmfbFUcC1AwyhYJbFK",
+    "name": "99Bitcoins",
+    "chain": "SOL"
+  },
+  {
+    "address": "0xf857c18a4570ec0cb03d32d6ea35c08b265d4aea",
+    "name": "Adrian Saenz",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x89ef07c9802f71da686b6e78f4fc1119d2e47406",
+    "name": "Coin engineer 1",
+    "chain": "EVM"
+  },
+  {
+    "address": "DJUixcCxiyKm43xrhT1nf9CNFsSTwinyDayaoY5y3yNF",
+    "name": "Coin engineer 2",
+    "chain": "SOL"
+  },
+  {
+    "address": "0x77980f9c8b8749841b0abd7a5a6bbc0c1c874b47",
+    "name": "CriptoMind",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x8ee83251531160f9ad1b6d2c5b8d45cb6d0d9c1e",
+    "name": "Crypto4chun",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xe7d91e008af9a433f9a1e6348aea00178beed32c",
+    "name": "Crypto Aman",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xb92ec3280324526dcc2366e3273fad65fe69245d",
+    "name": "CriptoTemplo 1",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x8fac841807e21807f511daf3c04a34cd78661f4c",
+    "name": "CriptoTemplo 2",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xe26a744c6cb2ea1528a6e78166abbed9a29399f9",
+    "name": "Cyber Tech 1",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x6227f2886bf1c157c2320d67f9445667ce0c0bc5",
+    "name": "Ilme Aalim 1",
+    "chain": "EVM"
+  },
+  {
+    "address": "GChCthTuCEmPCjRS5U1ucKFoLEStpbJYoJzEzaFraWEb",
+    "name": "Ilme Aalim 2",
+    "chain": "SOL"
+  },
+  {
+    "address": "B6HtG6HzaWizPPJD83ACuvLnSHjpjVA4NH76m6ifzUoR",
+    "name": "Eunice D Wong 17 (solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "0x54cc5d3f70b72780e08ac4548ba6fe3b8e8e4a5c",
+    "name": "cryptocultclub",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x1e68518bc784f934128b262e438985b660b73ea8",
+    "name": "Wise Advice 1",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x54d07cfa91f05fe3b45d8810fef05705117afe53",
+    "name": "Wise Advice 2",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xc4c288631ae2cfb58c98c5fdae56c65b8d7f3ba9",
+    "name": "Wise Advice 3",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x35ea0493e66724fb333180e5cb12caadfaf96e70",
+    "name": "Wise Advice 4",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xaf19614d4f3763a3d8260f73430e5d81cdce1f3e",
+    "name": "Tarik Bilen",
+    "chain": "EVM"
+  },
+  {
+    "address": "2194zQ5rSR4D8T64oGBg3nHxgDELTacTp86bLQjVQfP4",
+    "name": "Focused Lucas",
+    "chain": "SOL"
+  },
+  {
+    "address": "0x99ddb247d3411ef7026bf8acc1f8e9039e631c7f",
+    "name": "My Financial Friend 2 (solana)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xb00adf5621f1d300a696692ce790f953fc76392d",
+    "name": "Matts Crypto 2",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x279a7DBFaE376427FFac52fcb0883147D42165FF",
+    "name": "Julien Bouteloup",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x6ca3Feb17A858ac57f67E32662045A1736F3B315",
+    "name": "Stan Crypto 19",
+    "chain": "EVM"
+  },
+  {
+    "address": "HxSj8Zis4tCR8LUmeJDYn8vRdtCrz2zuUQn39qVQKbpd",
+    "name": "Stan Crypto 20",
+    "chain": "SOL"
+  },
+  {
+    "address": "Hg3AMfoaKem2CjuUCsNvj1hWGqzb97yHELmbfJ5P8jjV",
+    "name": "Eunice D Wong 18 (solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "0xf1D797a623C8101674Fc19479303bFC2a9930803",
+    "name": "Eunice D Wong 19",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xda9328c0b5ecca20051d3be49653e79e0bcbaa81",
+    "name": "Crypto Aman",
+    "chain": "EVM"
+  },
+  {
+    "address": "2Lm8Ps6rxkXoxYLMDFrieYeNUnqy5hFhsZMKUzx2VMYc",
+    "name": "Archie Lim (solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "0x786d10bbfa189bccac75a988a26218c9717a919c",
+    "name": "Biaheza",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x0d07ef3f0f7c679c722bee73ed118d6dc940cb05",
+    "name": "Stan Crypto 21",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xaf25e64a3a0ec43de515a77c5ea52ecbdc28ea21",
+    "name": "Stan Crypto 22",
+    "chain": "EVM"
+  },
+  {
+    "address": "8C816CzyG8KzEnbkyvacYP1DGceqXM8TMsbiUNsDaskV",
+    "name": "Insyder Cooks 1 ($1M challenge)",
+    "chain": "SOL"
+  },
+  {
+    "address": "0x171c880F4ba9274992e45Be9c305371bDE0d3818",
+    "name": "Stan Crypto 23 (Bybit deposit address)",
+    "chain": "EVM"
+  },
+  {
+    "address": "41LDU95pHzWVGT7P35j3stboH36F1xJHhZoKehQ9MJoH",
+    "name": "Stevewilldoit",
+    "chain": "SOL"
+  },
+  {
+    "address": "0x9090839fa8d428582b9b1f7ca032019b75ec7d4c",
+    "name": "Stan Crypto 24",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xc7367970093f6e93498f995d9279721d2222d0a0",
+    "name": "Stan Crypto 25 (potentially)",
+    "chain": "EVM"
+  },
+  {
+    "address": "8N7phFExB98v2ADPmLcdB9mMWgrGu9sGC5ff6ceMYEFQ",
+    "name": "Crypto Gains 54 (solana) (Crypto.com deposit address)",
+    "chain": "SOL"
+  },
+  {
+    "address": "GWEpCJLy8UaCVaiFYVckKDC8568asuhYHPfpmL8S9aod",
+    "name": "Crypto Gains 55 (solana) (MEXC deposit)",
+    "chain": "SOL"
+  },
+  {
+    "address": "3sgBX47gcU1AVZxSn95APVaFgJpSv3JvZPWjSHMprrVy",
+    "name": "Crypto Gains 56 (solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "0x3279fD9B7B516f9B0193C0cf1aC5CEe1329d890E",
+    "name": "Crypto Gains 57 (MEXC deposit)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x20f7c7e4b410af0d7309a04792fc22c7b4c7f46e",
+    "name": "Virtual Bacon 8",
+    "chain": "EVM"
+  },
+  {
+    "address": "31EQiBAS4YtXh2yH12b99zcRN8dHxo2pLiPYKirZRymi",
+    "name": "The Krypto King 8 (solana) (Kucoin deposit address)",
+    "chain": "SOL"
+  },
+  {
+    "address": "7cmKXyEts8SeZRMDVtYK1HZEkmYbsk15DxKrbj2AvFVJ",
+    "name": "Stan Crypto 26 (solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "64k1E7Y5i6SpguWWaK32TD1wDoHj2rwiY9EctR3eZork",
+    "name": "Invest Answers 6 (solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "9EKJ6iK5NY4PAJRSStqMsPgkgCdjRkPt1QCNiTpic3u2",
+    "name": "Invest answers 7 (solana) (Kraken deposit address)",
+    "chain": "SOL"
+  },
+  {
+    "address": "0x6b411100c72ba2445e50ffd20839c28b3546de7c",
+    "name": "Murad 1",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xcbd0dee0c3eed152c3398b062361becc4a15522b",
+    "name": "Murad 2",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x13fc38ec99a8217a06d1dc6db8c0bf0ee97ebf7f",
+    "name": "Murad 3",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x71b4fd11eef705ba60176e7c034cd1a4f97ae02d",
+    "name": "Murad 4",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x30b46a659761b576a00028b44d1e37fdc64b034d",
+    "name": "Murad 5",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x5b1569db234a0f2884814a3f7184f01cf641b0c6",
+    "name": "Murad 6",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x464e0a666734ba93e231d929ace538eaf05ff424",
+    "name": "Murad 7",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xdb47714727cba70f0408ba30dc4ea0b5ac436055",
+    "name": "Murad 8",
+    "chain": "EVM"
+  },
+  {
+    "address": "7QZGS7MQ4S6hRmE8iXoFTXgQ2hXVUCho2ZhgeWvLNPZT",
+    "name": "Murad 9",
+    "chain": "SOL"
+  },
+  {
+    "address": "GyBkVYkHBPMapyQeueQ6d44YthwqYiX4ajgnGLqq9P7r",
+    "name": "Murad 10",
+    "chain": "SOL"
+  },
+  {
+    "address": "2xn57hPD2v6ighJFPXNPSoiGUXkW4KKo8Hb3NpXmHZvZ",
+    "name": "Murad 11",
+    "chain": "SOL"
+  },
+  {
+    "address": "0x14821E30b2f41be294E472846a2b344B982Ee4DD",
+    "name": "Jesse Eckel 10 (Coinbase deposit)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x0f89d54b02ca570de82f770d33c7b7cf7b3c3394",
+    "name": "Rune Christensen (Aave Founder)",
+    "chain": "EVM"
+  },
+  {
+    "address": "8R1FAe8oGsL48bLXK67vuXTF5Akj7uDwuZXV1HEetzEh",
+    "name": "Stan Crypto 27 (ByBit deposit)",
+    "chain": "SOL"
+  },
+  {
+    "address": "CXGWwEhfa7cLx2ZN4Yn7fHycVTf42RLpD5cfkde5kEpA",
+    "name": "paulo.sol 7 (potentially)",
+    "chain": "SOL"
+  },
+  {
+    "address": "0x96A966EB0F9B82CA8558883de36Cd36A9688890C",
+    "name": "House of Crypto 10 (MEXC deposit)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x0db228081fa3ab56337662da8b2454ed672ae6ef",
+    "name": "Alt Crypto Gems 1",
+    "chain": "EVM"
+  },
+  {
+    "address": "8SkN8XqzLgALKnnr4VLkFMyDAoTHwv4nrhLWPHhDSPD8",
+    "name": "Archie Lim 2 (solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "0x6F8B0b8C8988BBEfd5D835B7470674AE12AC92e4",
+    "name": "CryptoGodJohn 10 (potentially)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x468f726FBf105adC07e19674f547140a0BAA52f1",
+    "name": "CryptoGodJohn 11 (Bybit deposit address)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xBad86Bda35B4E4C5574c5288F2932F5A8ABE5f46",
+    "name": "Crypto Banter 32 (Sheldon)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x09E94cCCB7AE047029ddD94E85d76053a7e30036",
+    "name": "Crypto Banter 33 (Sheldon) (Bybit deposit)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x725F895Fc17e93E9B5189dA71976d092F4aC7519",
+    "name": "Crypton Banter 34 (Sheldon) (Bybit deposit)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x69FA82034de7A6A695b43DbD30C34b4130F90E32",
+    "name": "Crypto Banter 35 (Sheldon) (Kucoin deposit)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x3689ED2301a1861B259caB7f03af44c2a02895cC",
+    "name": "Crypto Banter 36 (Sheldon) (Binance deposit)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xFB2849947E3B1699aeF389C308d6fc04D1fa1bF4",
+    "name": "Crypto Gains 58",
+    "chain": "EVM"
+  },
+  {
+    "address": "FxorW5zpczCNDpkgj6q2vwN4D9EKDjDTyPz8Y4zVB4Hy",
+    "name": "Crypto Banter 33 (Fefe) (Bybit deposit)",
+    "chain": "SOL"
+  },
+  {
+    "address": "59cZY1NC1SuoDAkptasZKRWGQ9jcc5NaBZbFWCr7g17c",
+    "name": "Kyle Chasse 12 (solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "0xD343B4fe1ea19D42920e6B177f940cC9fb56a831",
+    "name": "FBB4 Whale 14",
+    "chain": "EVM"
+  },
+  {
+    "address": "5noSQz95gg8PA6fsZR9iDmCEppNrw2BsLCKYu4Weedin",
+    "name": "Kyle Chasse 13 (Solana)",
+    "chain": "SOL"
+  },
+  {
+    "address": "0x60c0814A027c31b5fB2D01E03466EF95DC7e32e5",
+    "name": "FBB4 Whale 15 (Kucoin deposit address)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xF5DB15bC2608415aaE1167089A3C0Fe0B9310E8d",
+    "name": "FBB4 16 (Blofin deposit address)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x7e12ea1aBf477d5618E386ad38162B7049bA5207",
+    "name": "FBB4 17 (Blofin deposit address)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xc58AA2e7b68C81b3f129F0c43a086EBD301681e3",
+    "name": "FBB4 18 (Blofin deposit address)",
+    "chain": "EVM"
+  },
+  {
+    "address": "7v8rM4d6rTaLqJE3KBV714kXTxcRrGkmPUEMhvnvZxri",
+    "name": "paulo.sol 8 (potentially) (Kraken deposit address)",
+    "chain": "SOL"
+  },
+  {
+    "address": "6SnZdV5QUnMd51e4C1fYfLpX7e2eWfTUcxNQdBJhnmE9",
+    "name": "paulo.sol 10",
+    "chain": "SOL"
+  },
+  {
+    "address": "5Sw3PQZyzPBYvqfor1orKFPdctpVPSBkm6Q6ECHjByno",
+    "name": "paulo.sol 9",
+    "chain": "SOL"
+  },
+  {
+    "address": "0xb119fa9b5b38058a392fea9f02c19355cb7c1f06",
+    "name": "Crypto Gains 59",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x98705c11ddaf4d2019640f7832876ab192c5cd19",
+    "name": "Crypto Gains 60",
+    "chain": "EVM"
+  },
+  {
+    "address": "2rxYt9xqXDNE5wiPAT4w5sDy75yfcxP8PkydTViv4v9X",
+    "name": "Sajad Ali 8",
+    "chain": "SOL"
+  },
+  {
+    "address": "Gzzb2pYVE3G3SvjCjtnZj7kHLvgiMGVuMz2N9HM6w3Vc",
+    "name": "Sajad Ali 9 (Coinbase deposit)",
+    "chain": "SOL"
+  },
+  {
+    "address": "0x1BccDf19185aD1d5BEda949e67d74Cc5BDce4071",
+    "name": "Whale Fud Eth 1",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xeb0fa1b7e89344c27eeeea6c9db46cdb1df5debc",
+    "name": "Whale Fud Eth 2",
+    "chain": "EVM"
+  },
+  {
+    "address": "C2MN5djXMUxgw7Lwj33Hasb6T8WtpJJL4FrNhbtLAtzp",
+    "name": "Greeny Trades 1",
+    "chain": "SOL"
+  },
+  {
+    "address": "3ktPgM4G3LC4Bz4yyLy2GhJ1CdNbCbh1kByNn6s2E3iF",
+    "name": "Greeny Trades 2",
+    "chain": "SOL"
+  },
+  {
+    "address": "FqLktFCERUvNNn28wyU4q8hF8YqTvntcrAgW6dJQ24sJ",
+    "name": "Greeny Trades 3",
+    "chain": "SOL"
+  },
+  {
+    "address": "0xf185d9a2E497bB6a0a544782e4c486AdDE190f60",
+    "name": "FBB4 19 (Bybit deposit)",
+    "chain": "EVM"
+  },
+  {
+    "address": "2kV7ySvz7VRvG8HGi63DCv4GEQnnuERzzNU8p4mS1mk1",
+    "name": "Archie Lim 3 (potentially)",
+    "chain": "SOL"
+  },
+  {
+    "address": "0x6A14426D9B4dce2c88f7dF2863e587897c411d53",
+    "name": "FBB4 6",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xa7DE68878E849b85B13d116a074d14D70d4A784C",
+    "name": "FBB4 20",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xfe6e2c030eacb2542599d155ddf5c98854ae4bde",
+    "name": "FBB4 21",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x6165204921569256476951a1dc2809965830E26b",
+    "name": "FBB4 22 (potentially)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x3C7E2BbeCB4Ba096A37FbcE50B370c4DADCF9633",
+    "name": "FBB4 23 (MEXC deposit)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x884Fb7EAAA53C47d591002E704ac454c1F4A1C98",
+    "name": "FBB4 13",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x29E5825978EB871b04a100d2C710B46431abB8F7",
+    "name": "FBB4 24 (MEXC deposit)",
+    "chain": "EVM"
+  },
+  {
+    "address": "AUap3BZhEhDrWahkyCvVLDUQ33a552hS1iZ4RGyP6Ve8",
+    "name": "Stan Crypto 28",
+    "chain": "SOL"
+  },
+  {
+    "address": "0x1d4c20BA451dA0B7BC090CeB666ED8310f7F2130",
+    "name": "Crypto Gains 61",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xc5Be44057B3E44ED720510A4d81083E461701837",
+    "name": "Full Value Dan 8 (Bitget deposit)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xc13104E2d6a1C5ca1d975C4bd9Ed89D17a140a34",
+    "name": "Full Value Dan 9 (potentially)",
+    "chain": "EVM"
+  },
+  {
+    "address": "CWKBzzDQFxirmCXWPXC7RV25s5mmLUzv7pDt8QFwBRKS",
+    "name": "Full Value Dan 10",
+    "chain": "SOL"
+  },
+  {
+    "address": "0xBB09974e19f848848E32336871D94fC58A070f4D",
+    "name": "Jesse Eckel 11 (Coinbase deposit)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xdee163da0ae8fa73fb46a1ac04d8e72078429854",
+    "name": "Jesse Eckel 12",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x11b496b358c358924a2869379342f3d983633c03",
+    "name": "Crypto Gains 62",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x4fe3c9ea66ad3ca2b9e059dffb53171e60b72636",
+    "name": "Stan Crypto 29",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x69d4781290ee2a79e5FEd7275cA96B808887BC6b",
+    "name": "Thor Hartvigsen 4 (Coinbase deposit)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xD625D83C47Ae74db08520d0E62A984a8FFa22e27",
+    "name": "Kyle Chasse 14",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x1E6F4144D4b89fD7C3DF7CD2E27de8c609349BB8",
+    "name": "Kyle Chasse 15",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xdfD1Ec824bf45bD3732a03551f8A438a1fa4F826",
+    "name": "Stan Crypto 30",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x5B0a6Ba6A2D9Ba417eeb219A8d99a78214E331A6",
+    "name": "Stan Crypto 31",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x0794fedc7ac322a91d57e181b6b8352a6484f288",
+    "name": "Stan Crypto 32",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x4bA01bD03391deCdFA6d3D7CdFc740E616399219",
+    "name": "FBB4 25",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x7be5807bfe45d1e7c19424013f39c8d8f9281250",
+    "name": "FBB4 26 (MEXC deposit)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x9e2d3d9a665576ae9653078acdd6d842c4461155",
+    "name": "Eunice D Wong 20",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xb4a5451c0c8601467eb2acd6d512ff656ff9a5d4",
+    "name": "Eunice D Wong 21 (potentially)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xe53c2fc4dd39a3a216951ece49dd3efb2c240faa",
+    "name": "Eunice D Wong 22 (potentially)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x050c59a047197e5c4ba9a8d110b8dd197b86aa00",
+    "name": "Eunice D Wong 23",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xAe1DEC7Cd9FfC6371d6bA48b62e393908D1B4860",
+    "name": "Kyle Chasse 16 (Blofin deposit)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x487D6d0B5AF8Db4a4e287d35663A56d948beD741",
+    "name": "Tyler Hill investing 2 (potentially)",
+    "chain": "EVM"
+  },
+  {
+    "address": "6MbWBJ8QyUkipKWtmuQTT1AHVDwCYChCHo7S8sDT6t2u",
+    "name": "Crypto Banter 37 (Kyle Doops)",
+    "chain": "SOL"
+  },
+  {
+    "address": "0xbd87c40358271e1bb219336dae86b178e5b3c786",
+    "name": "Alt Crypto Gems 2",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x1F31959Dee51359EA01D3269ACfD480f1746eC53",
+    "name": "Kyle Chasse 17",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xddaBcb1FB76E796c6eDDa10B0318Cec857572748",
+    "name": "House of Crypto 11 (OKX deposit)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x713ab73b41D70f474Ecd1a5a6a647e26c1c4E431",
+    "name": "The Moon 3 (Bybit deposit)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x6414CD56B85EDA5b64194A304C1F57f4506db19C",
+    "name": "Crypto Banter 38 (Sheldon)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x5bb82fcf45Da845fd237D4D3eC23fD11081700a5",
+    "name": "Stan Crypto 33 (Kucoin deposit)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x1706080865946750b8515ec4e95c601d6ef7f1f6",
+    "name": "Crypto Gains 63",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x8422E1F19f551c09214C3f53fb9dfa7f22Eaf78F",
+    "name": "Hustlepedia 3",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x977d8653a34c3daeb4ccbcbc525db1534ec2109f",
+    "name": "Crypto Gains 64",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xbe34c32c5d4abf4ffbee40448984734720013a3c",
+    "name": "Crypto Gains 65",
+    "chain": "EVM"
+  },
+  {
+    "address": "7FBHcHzX8HxznsRkEF5eg2wDo9tqaDJ4U7hHTSip9wuM",
+    "name": "Crypto Hustle 1",
+    "chain": "SOL"
+  },
+  {
+    "address": "0xd1d64158f352d3429b31cbd4016e598b19aa1004",
+    "name": "Stan Crypto 34 (Kucoin deposit)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xa28a8bfdc48d0abdf23a6de2a98257d8303d7f1b",
+    "name": "Crypto Gorilla 1",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x72723b29f0227c0a30973754655fbeb5e0a7546d",
+    "name": "Crypto Gorilla 2",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xb4d64772218d36f97974e8bb6ef0d01b026c9a14",
+    "name": "Crypto Gorilla 3",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x97b13efcbd2760f1012244b790739fe70f53bd43",
+    "name": "Alex Becker 8",
+    "chain": "EVM"
+  },
+  {
+    "address": "6o83MgCqdaw1mtT8rj4F6iiCkQC3Pysfa76gqy1QypHC",
+    "name": "Stan Crypto 35",
+    "chain": "SOL"
+  },
+  {
+    "address": "7UHUfVJUc5sJYLoQJexVRyG8GfdmTnPMghdeoueLd2kw",
+    "name": "Champ 1",
+    "chain": "SOL"
+  },
+  {
+    "address": "W2FqVaK6ukhzL2zEv2Apo2geexqnsCsUGXcvWLJo8vh",
+    "name": "Champ 2",
+    "chain": "SOL"
+  },
+  {
+    "address": "28tuz3BykLxt6yQfoETXsmfjVt2GfTwLdE81g6JsHHzg",
+    "name": "Greeny Trades 4",
+    "chain": "SOL"
+  },
+  {
+    "address": "4QLPK5EEjt5N32FMuiazfDvxshHUtqePvu7MXAGTdGw2",
+    "name": "Champ 3",
+    "chain": "SOL"
+  },
+  {
+    "address": "5XhdP4vdAUqh6hXwe4VEYkYkMkb3SRJX1qSfa8kGkzTo",
+    "name": "Greeny Trades 5",
+    "chain": "SOL"
+  },
+  {
+    "address": "0x50bba24e1f43dbece029fd9f3f0c1f5c496691ac",
+    "name": "Across the Rubicon 2",
+    "chain": "EVM"
+  },
+  {
+    "address": "B2dFBq63eMxFp2xjMHFQ63VpZ554Fd9vgbVEKjDwohK5",
+    "name": "Greeny Trades 6 (Binance deposit)",
+    "chain": "SOL"
+  },
+  {
+    "address": "8vHR4252C5GNsjFrPbmQtYoarAAAV5TtG8HZDCM4RU8n",
+    "name": "Greeny Trades 7",
+    "chain": "SOL"
+  },
+  {
+    "address": "0xea34e6d93ad310451259e51b7ab22aa99c4c6d0b",
+    "name": "House of Crypto 12",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x7cf3b27a0392c91319e26f52bb389dfa1e3b00b1",
+    "name": "House of Crypto 12 (Cobo deposit)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x90071bEe0acb4De784F96a2a635eFD141f225260",
+    "name": "FBB4 27 (Bitmart deposit)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xA2e8bfca14772995262AABa8B719599D7B7B05e3",
+    "name": "Whale Fud Eth 3",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x2adf4c25c5a7a5e5b81a6bc775496ccdf2533d49",
+    "name": "Whale Fud Eth 4 (Binance deposit)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x0Ed4FD8DEf67Ad93D65c30ACC8a07d52a89a9c9e",
+    "name": "FBB4 28",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xc898e870fcb1036d945c66ee8f898b494c72dca5",
+    "name": "Jesse Eckel 13",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x8f0e5760843714b7a963e4f9a41506d177a4ef69",
+    "name": "Jesse Eckel 14",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xb84cd6e4af7b07f71f14add29216032ccf58415a",
+    "name": "Jesse Eckel 15",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xbb058e8548f6af9492dc3624fbe714ed80cc2e03",
+    "name": "Jesse Eckel 16 (Binance deposit)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xf152c64dfeff0799a5296f5e1e6078d9544f4c71",
+    "name": "Jesse Eckel 17",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x69ebd87f9dfee9fb59ae111a3027aedf986cc58f",
+    "name": "Jesse Eckel 18 (Coinbase deposit)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x9c9bd830f66f7b9e88e9bde9ef39ea5b3f3555de",
+    "name": "Justin Sun 3 (HTX deposit)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x5be9a4959308a0d0c7bc0870e319314d8d957dbb",
+    "name": "World Liberty Financial (Trump)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xaf7ed401EE1ab57a05E06D7288d0D5D7ec040E17",
+    "name": "Digital Asset News 3",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xc11085F5745b2Fcd190976937C9CBD9299e238dc",
+    "name": "Stan Crypto 36 (Bybit deposit)",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xb140A7f027EBcBf3A42F38309d22d050c75F67cf",
+    "name": "Crypto Gorilla 4 (MEXC deposit)",
+    "chain": "EVM"
+  },
+  {
+    "address": "7FdbRsorhNxhBemX5wiRAG6Dhb7t66rSnKV2Vw3aeEia",
+    "name": "Kyle Chasse 22 (CEX deposit)",
+    "chain": "SOL"
+  },
+  {
+    "address": "0x8a1f557487e841436b62592092876f61a4bcc07b",
+    "name": "Eunice D Wong 24",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xfb390726c4be27d1f631f38100e8e3363d80318f",
+    "name": "Eunice D Wong 26",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x9dfb988ce016f22680430dde4a4371b7e8c9c99e",
+    "name": "Eunice D Wong 25",
+    "chain": "EVM"
+  },
+  {
+    "address": "0xcc5d5253866e4da5acd0b5294ac58f10031cdbc1",
+    "name": "FBB4 29",
+    "chain": "EVM"
+  },
+  {
+    "address": "3Ra7rsZNwtkjPDB4Ke18je3EqYunb36KhTmcVLWqELCR",
+    "name": "Virtual Bacon 9",
+    "chain": "SOL"
+  },
+  {
+    "address": "0x7e99ebca7d5a25f2016d03ac7212de52225d8006",
+    "name": "The Crypto Factor 1",
+    "chain": "EVM"
+  },
+  {
+    "address": "5NDGWY5ahREkWsiUZhod5XQHZUkqFAcnebTkkDXxy1Ng",
+    "name": "Across the Rubicon 3",
+    "chain": "SOL"
+  },
+  {
+    "address": "8AEMUs6PFGMigHmAUCCse43kXteCtRsp6dSeoenUTxii",
+    "name": "Across the Rubicon 4",
+    "chain": "SOL"
+  },
+  {
+    "address": "JBQ8AkM2Zqgmvnwv6bjNwRxUUSAQmvmYvymEz8DDdMvJ",
+    "name": "Sajad Ali 10",
+    "chain": "SOL"
+  },
+  {
+    "address": "5mhFore9gfoEajzHMVJw5iHERcw7rbR5cjkaKkNoZvPx",
+    "name": "Sajad Ali 11",
+    "chain": "SOL"
+  },
+  {
+    "address": "t3wi9EvsrydR6n1deu6YSBpnj7ize4HB2Lk9h3V5kxm",
+    "name": "Across the Rubicon 5 (5k -&gt; 50k challenge)",
+    "chain": "SOL"
+  },
+  {
+    "address": "6KgYRvgq8wcAo6JZ9QKN7nJo2h81jrxxeBU9yCD9ucXV",
+    "name": "Champ 4",
+    "chain": "SOL"
+  },
+  {
+    "address": "4uqygd9GXJpwco2Xmtkwuw1j9gL6EgjynyDrov2tjdoe",
+    "name": "Alex Becker 9 - Degen wallet",
+    "chain": "SOL"
+  },
+  {
+    "address": "0xa539AF7fbF093AEA2d90B3eE8df2e9b4548a0452",
+    "name": "Crypto Gorilla 5",
+    "chain": "EVM"
+  },
+  {
+    "address": "0x8b6C06C4BeacD6767a99672b7067BEff8581249e",
+    "name": "Crypto Gorilla 6 (HTX deposit)",
+    "chain": "EVM"
+  },
+  {
+    "address": "14Na35u5xdAywXGrLrmqAJ412V46588gLKc4rtBGNozJ",
+    "name": "Crypto Gains 66",
+    "chain": "SOL"
+  }
+]
